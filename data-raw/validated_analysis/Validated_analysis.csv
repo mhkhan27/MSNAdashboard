@@ -1,0 +1,969 @@
+,key_index,stat,admin_name,admin_level,pop_group
+1,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ NA ~/~ NA,30,overall,admin0,Nationwide
+2,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ NA ~/~ NA,22,overall,admin0,Nationwide
+3,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ NA ~/~ NA,22,overall,admin0,Nationwide
+4,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ NA ~/~ NA,15,overall,admin0,Nationwide
+5,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ NA ~/~ NA,26,overall,admin0,Nationwide
+6,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ NA ~/~ NA,19,overall,admin0,Nationwide
+7,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ NA ~/~ NA,1,overall,admin0,Nationwide
+8,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ NA ~/~ NA,4,overall,admin0,Nationwide
+9,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ NA ~/~ NA,0,overall,admin0,Nationwide
+10,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ NA ~/~ NA,2,overall,admin0,Nationwide
+11,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ NA ~/~ NA,2,overall,admin0,Nationwide
+12,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ NA ~/~ NA,2,overall,admin0,Nationwide
+13,mean @/@ i_fcs ~/~ NA @/@ NA ~/~ NA,59.86450036,overall,admin0,Nationwide
+14,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ NA ~/~ NA,78,overall,admin0,Nationwide
+15,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ NA ~/~ NA,15,overall,admin0,Nationwide
+16,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ NA ~/~ NA,7,overall,admin0,Nationwide
+17,mean @/@ i_rcsi ~/~ NA @/@ NA ~/~ NA,11.6891677,overall,admin0,Nationwide
+18,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ NA ~/~ NA,23,overall,admin0,Nationwide
+19,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ NA ~/~ NA,33,overall,admin0,Nationwide
+20,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ NA ~/~ NA,44,overall,admin0,Nationwide
+21,mean @/@ hhs_score ~/~ NA @/@ NA ~/~ NA,0.333747559,overall,admin0,Nationwide
+22,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ pop_group ~/~ Lebanese,28,overall,admin0,Lebanese
+23,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ pop_group ~/~ migrant,46,overall,admin0,Migrant
+24,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ pop_group ~/~ prl,37,overall,admin0,Palestine Refugees from Lebanon
+25,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ pop_group ~/~ Lebanese,21,overall,admin0,Lebanese
+26,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ pop_group ~/~ migrant,31,overall,admin0,Migrant
+27,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ pop_group ~/~ prl,24,overall,admin0,Palestine Refugees from Lebanon
+28,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ pop_group ~/~ Lebanese,24,overall,admin0,Lebanese
+29,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ pop_group ~/~ migrant,6,overall,admin0,Migrant
+30,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ pop_group ~/~ prl,20,overall,admin0,Palestine Refugees from Lebanon
+31,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ pop_group ~/~ Lebanese,17,overall,admin0,Lebanese
+32,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ pop_group ~/~ migrant,2,overall,admin0,Migrant
+33,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ pop_group ~/~ prl,12,overall,admin0,Palestine Refugees from Lebanon
+34,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ pop_group ~/~ Lebanese,29,overall,admin0,Lebanese
+35,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ pop_group ~/~ migrant,13,overall,admin0,Migrant
+36,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ pop_group ~/~ prl,17,overall,admin0,Palestine Refugees from Lebanon
+37,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ pop_group ~/~ Lebanese,21,overall,admin0,Lebanese
+38,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ pop_group ~/~ migrant,14,overall,admin0,Migrant
+39,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ pop_group ~/~ prl,7,overall,admin0,Palestine Refugees from Lebanon
+40,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ pop_group ~/~ Lebanese,2,overall,admin0,Lebanese
+41,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ pop_group ~/~ migrant,2,overall,admin0,Migrant
+42,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ pop_group ~/~ prl,1,overall,admin0,Palestine Refugees from Lebanon
+43,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ pop_group ~/~ Lebanese,3,overall,admin0,Lebanese
+44,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ pop_group ~/~ migrant,6,overall,admin0,Migrant
+45,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ pop_group ~/~ prl,7,overall,admin0,Palestine Refugees from Lebanon
+46,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ pop_group ~/~ Lebanese,0,overall,admin0,Lebanese
+47,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ pop_group ~/~ migrant,3,overall,admin0,Migrant
+48,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ pop_group ~/~ prl,0,overall,admin0,Palestine Refugees from Lebanon
+49,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ pop_group ~/~ Lebanese,2,overall,admin0,Lebanese
+50,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ pop_group ~/~ migrant,6,overall,admin0,Migrant
+51,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ pop_group ~/~ prl,2,overall,admin0,Palestine Refugees from Lebanon
+52,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ pop_group ~/~ Lebanese,1,overall,admin0,Lebanese
+53,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ pop_group ~/~ migrant,5,overall,admin0,Migrant
+54,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ pop_group ~/~ prl,4,overall,admin0,Palestine Refugees from Lebanon
+55,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ pop_group ~/~ Lebanese,1,overall,admin0,Lebanese
+56,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ pop_group ~/~ migrant,1,overall,admin0,Migrant
+57,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ pop_group ~/~ prl,6,overall,admin0,Palestine Refugees from Lebanon
+58,mean @/@ i_fcs ~/~ NA @/@ pop_group ~/~ Lebanese,60.3088685,overall,admin0,Lebanese
+59,mean @/@ i_fcs ~/~ NA @/@ pop_group ~/~ migrant,64.4038835,overall,admin0,Migrant
+60,mean @/@ i_fcs ~/~ NA @/@ pop_group ~/~ prl,48.60263158,overall,admin0,Palestine Refugees from Lebanon
+61,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ pop_group ~/~ Lebanese,80,overall,admin0,Lebanese
+62,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ pop_group ~/~ Lebanese,15,overall,admin0,Lebanese
+63,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ pop_group ~/~ Lebanese,5,overall,admin0,Lebanese
+64,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ pop_group ~/~ migrant,81,overall,admin0,Migrant
+65,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ pop_group ~/~ migrant,14,overall,admin0,Migrant
+66,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ pop_group ~/~ migrant,5,overall,admin0,Migrant
+67,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ pop_group ~/~ prl,55,overall,admin0,Palestine Refugees from Lebanon
+68,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ pop_group ~/~ prl,24,overall,admin0,Palestine Refugees from Lebanon
+69,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ pop_group ~/~ prl,22,overall,admin0,Palestine Refugees from Lebanon
+70,mean @/@ i_rcsi ~/~ NA @/@ pop_group ~/~ Lebanese,13.24822515,overall,admin0,Lebanese
+71,mean @/@ i_rcsi ~/~ NA @/@ pop_group ~/~ migrant,5.447111111,overall,admin0,Migrant
+72,mean @/@ i_rcsi ~/~ NA @/@ pop_group ~/~ prl,13.16949153,overall,admin0,Palestine Refugees from Lebanon
+73,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ pop_group ~/~ Lebanese,26,overall,admin0,Lebanese
+74,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ pop_group ~/~ Lebanese,24,overall,admin0,Lebanese
+75,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ pop_group ~/~ Lebanese,51,overall,admin0,Lebanese
+76,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ pop_group ~/~ migrant,11,overall,admin0,Migrant
+77,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ pop_group ~/~ migrant,69,overall,admin0,Migrant
+78,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ pop_group ~/~ migrant,20,overall,admin0,Migrant
+79,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ pop_group ~/~ prl,26,overall,admin0,Palestine Refugees from Lebanon
+80,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ pop_group ~/~ prl,25,overall,admin0,Palestine Refugees from Lebanon
+81,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ pop_group ~/~ prl,50,overall,admin0,Palestine Refugees from Lebanon
+82,mean @/@ hhs_score ~/~ NA @/@ pop_group ~/~ Lebanese,0.350494547,overall,admin0,Lebanese
+83,mean @/@ hhs_score ~/~ NA @/@ pop_group ~/~ migrant,0.267029973,overall,admin0,Migrant
+84,mean @/@ hhs_score ~/~ NA @/@ pop_group ~/~ prl,0.346349745,overall,admin0,Palestine Refugees from Lebanon
+85,prop_select_one @/@ child_access_online_education ~/~ dont_know @/@ NA ~/~ NA,0,overall,admin0,Nationwide
+86,prop_select_one @/@ child_access_online_education ~/~ no_child_did_not_access_online_education_while_the_school_was_closed @/@ NA ~/~ NA,4,overall,admin0,Nationwide
+87,prop_select_one @/@ child_access_online_education ~/~ no_school_remained_opened_all_year @/@ NA ~/~ NA,49,overall,admin0,Nationwide
+88,prop_select_one @/@ child_access_online_education ~/~ yes_child_accessed_online_education_while_the_school_was_closed @/@ NA ~/~ NA,47,overall,admin0,Nationwide
+89,"prop_select_one @/@ main_reason_child_not_attending ~/~  Epilepsy, Diabetes, Severe Allergies, etc. @/@ NA ~/~ NA",1,overall,admin0,Nationwide
+90,prop_select_one @/@ main_reason_child_not_attending ~/~ age_is_not_appropriate_for_the_intended_grade_level @/@ NA ~/~ NA,1,overall,admin0,Nationwide
+91,prop_select_one @/@ main_reason_child_not_attending ~/~ child_did_not_attend_because_of_health_problems_diseases @/@ NA ~/~ NA,2,overall,admin0,Nationwide
+92,prop_select_one @/@ main_reason_child_not_attending ~/~ child_did_not_attend_due_to_disability @/@ NA ~/~ NA,2,overall,admin0,Nationwide
+93,prop_select_one @/@ main_reason_child_not_attending ~/~ child_did_not_attend_due_to_fear_of_contracting_from_covid_19 @/@ NA ~/~ NA,19,overall,admin0,Nationwide
+94,prop_select_one @/@ main_reason_child_not_attending ~/~ child_did_not_attend_due_to_work @/@ NA ~/~ NA,1,overall,admin0,Nationwide
+95,prop_select_one @/@ main_reason_child_not_attending ~/~ cost_of_education @/@ NA ~/~ NA,16,overall,admin0,Nationwide
+96,prop_select_one @/@ main_reason_child_not_attending ~/~ cultural_religious_reasons @/@ NA ~/~ NA,1,overall,admin0,Nationwide
+97,prop_select_one @/@ main_reason_child_not_attending ~/~ difficulties_at_school_with_curriculum @/@ NA ~/~ NA,32,overall,admin0,Nationwide
+98,prop_select_one @/@ main_reason_child_not_attending ~/~ dont_know @/@ NA ~/~ NA,9,overall,admin0,Nationwide
+99,prop_select_one @/@ main_reason_child_not_attending ~/~ enrolled_attending_non_formal_informal_education_program @/@ NA ~/~ NA,4,overall,admin0,Nationwide
+100,prop_select_one @/@ main_reason_child_not_attending ~/~ fear_of_violence_in_schools @/@ NA ~/~ NA,1,overall,admin0,Nationwide
+101,prop_select_one @/@ main_reason_child_not_attending ~/~ other @/@ NA ~/~ NA,10,overall,admin0,Nationwide
+102,prop_select_one @/@ main_reason_child_not_attending ~/~ prefer_not_to_answer @/@ NA ~/~ NA,1,overall,admin0,Nationwide
+103,prop_select_one @/@ governorate ~/~ akkar @/@ NA ~/~ NA,8,overall,admin0,Nationwide
+104,prop_select_one @/@ governorate ~/~ baalbek_hermel @/@ NA ~/~ NA,9,overall,admin0,Nationwide
+105,prop_select_one @/@ governorate ~/~ beirut @/@ NA ~/~ NA,8,overall,admin0,Nationwide
+106,prop_select_one @/@ governorate ~/~ bekaa @/@ NA ~/~ NA,10,overall,admin0,Nationwide
+107,prop_select_one @/@ governorate ~/~ mnt_lbn @/@ NA ~/~ NA,19,overall,admin0,Nationwide
+108,prop_select_one @/@ governorate ~/~ nabatieh @/@ NA ~/~ NA,9,overall,admin0,Nationwide
+109,prop_select_one @/@ governorate ~/~ north @/@ NA ~/~ NA,25,overall,admin0,Nationwide
+110,prop_select_one @/@ governorate ~/~ south @/@ NA ~/~ NA,12,overall,admin0,Nationwide
+111,prop_select_one @/@ pop_group ~/~ Lebanese @/@ NA ~/~ NA,80,overall,admin0,Nationwide
+112,prop_select_one @/@ pop_group ~/~ migrant @/@ NA ~/~ NA,9,overall,admin0,Nationwide
+113,prop_select_one @/@ pop_group ~/~ prl @/@ NA ~/~ NA,11,overall,admin0,Nationwide
+114,prop_select_one @/@ child_access_online_education ~/~ dont_know @/@ pop_group ~/~ Lebanese,0,overall,admin0,Lebanese
+115,prop_select_one @/@ child_access_online_education ~/~ no_child_did_not_access_online_education_while_the_school_was_closed @/@ pop_group ~/~ Lebanese,5,overall,admin0,Lebanese
+116,prop_select_one @/@ child_access_online_education ~/~ no_school_remained_opened_all_year @/@ pop_group ~/~ Lebanese,50,overall,admin0,Lebanese
+117,prop_select_one @/@ child_access_online_education ~/~ yes_child_accessed_online_education_while_the_school_was_closed @/@ pop_group ~/~ Lebanese,45,overall,admin0,Lebanese
+118,prop_select_one @/@ child_access_online_education ~/~ no_child_did_not_access_online_education_while_the_school_was_closed @/@ pop_group ~/~ migrant,3,overall,admin0,Migrant
+119,prop_select_one @/@ child_access_online_education ~/~ no_school_remained_opened_all_year @/@ pop_group ~/~ migrant,32,overall,admin0,Migrant
+120,prop_select_one @/@ child_access_online_education ~/~ yes_child_accessed_online_education_while_the_school_was_closed @/@ pop_group ~/~ migrant,65,overall,admin0,Migrant
+121,prop_select_one @/@ child_access_online_education ~/~ dont_know @/@ pop_group ~/~ prl,1,overall,admin0,Palestine Refugees from Lebanon
+122,prop_select_one @/@ child_access_online_education ~/~ no_child_did_not_access_online_education_while_the_school_was_closed @/@ pop_group ~/~ prl,3,overall,admin0,Palestine Refugees from Lebanon
+123,prop_select_one @/@ child_access_online_education ~/~ no_school_remained_opened_all_year @/@ pop_group ~/~ prl,43,overall,admin0,Palestine Refugees from Lebanon
+124,prop_select_one @/@ child_access_online_education ~/~ yes_child_accessed_online_education_while_the_school_was_closed @/@ pop_group ~/~ prl,53,overall,admin0,Palestine Refugees from Lebanon
+125,prop_select_one @/@ main_reason_child_not_attending ~/~ child_did_not_attend_because_of_health_problems_diseases @/@ pop_group ~/~ Lebanese,2,overall,admin0,Lebanese
+126,prop_select_one @/@ main_reason_child_not_attending ~/~ child_did_not_attend_due_to_disability @/@ pop_group ~/~ Lebanese,2,overall,admin0,Lebanese
+127,prop_select_one @/@ main_reason_child_not_attending ~/~ child_did_not_attend_due_to_fear_of_contracting_from_covid_19 @/@ pop_group ~/~ Lebanese,20,overall,admin0,Lebanese
+128,prop_select_one @/@ main_reason_child_not_attending ~/~ child_did_not_attend_due_to_work @/@ pop_group ~/~ Lebanese,1,overall,admin0,Lebanese
+129,prop_select_one @/@ main_reason_child_not_attending ~/~ cost_of_education @/@ pop_group ~/~ Lebanese,16,overall,admin0,Lebanese
+130,prop_select_one @/@ main_reason_child_not_attending ~/~ cultural_religious_reasons @/@ pop_group ~/~ Lebanese,1,overall,admin0,Lebanese
+131,prop_select_one @/@ main_reason_child_not_attending ~/~ difficulties_at_school_with_curriculum @/@ pop_group ~/~ Lebanese,35,overall,admin0,Lebanese
+132,prop_select_one @/@ main_reason_child_not_attending ~/~ dont_know @/@ pop_group ~/~ Lebanese,8,overall,admin0,Lebanese
+133,prop_select_one @/@ main_reason_child_not_attending ~/~ enrolled_attending_non_formal_informal_education_program @/@ pop_group ~/~ Lebanese,3,overall,admin0,Lebanese
+134,prop_select_one @/@ main_reason_child_not_attending ~/~ fear_of_violence_in_schools @/@ pop_group ~/~ Lebanese,1,overall,admin0,Lebanese
+135,prop_select_one @/@ main_reason_child_not_attending ~/~ other @/@ pop_group ~/~ Lebanese,10,overall,admin0,Lebanese
+136,prop_select_one @/@ main_reason_child_not_attending ~/~ prefer_not_to_answer @/@ pop_group ~/~ Lebanese,1,overall,admin0,Lebanese
+137,prop_select_one @/@ main_reason_child_not_attending ~/~ child_did_not_attend_because_of_health_problems_diseases @/@ pop_group ~/~ migrant,50,overall,admin0,Migrant
+138,prop_select_one @/@ main_reason_child_not_attending ~/~ cost_of_education @/@ pop_group ~/~ migrant,50,overall,admin0,Migrant
+139,"prop_select_one @/@ main_reason_child_not_attending ~/~  Epilepsy, Diabetes, Severe Allergies, etc. @/@ pop_group ~/~ prl",8,overall,admin0,Palestine Refugees from Lebanon
+140,prop_select_one @/@ main_reason_child_not_attending ~/~ age_is_not_appropriate_for_the_intended_grade_level @/@ pop_group ~/~ prl,8,overall,admin0,Palestine Refugees from Lebanon
+141,prop_select_one @/@ main_reason_child_not_attending ~/~ child_did_not_attend_due_to_disability @/@ pop_group ~/~ prl,8,overall,admin0,Palestine Refugees from Lebanon
+142,prop_select_one @/@ main_reason_child_not_attending ~/~ child_did_not_attend_due_to_fear_of_contracting_from_covid_19 @/@ pop_group ~/~ prl,8,overall,admin0,Palestine Refugees from Lebanon
+143,prop_select_one @/@ main_reason_child_not_attending ~/~ cost_of_education @/@ pop_group ~/~ prl,8,overall,admin0,Palestine Refugees from Lebanon
+144,prop_select_one @/@ main_reason_child_not_attending ~/~ difficulties_at_school_with_curriculum @/@ pop_group ~/~ prl,8,overall,admin0,Palestine Refugees from Lebanon
+145,prop_select_one @/@ main_reason_child_not_attending ~/~ dont_know @/@ pop_group ~/~ prl,31,overall,admin0,Palestine Refugees from Lebanon
+146,prop_select_one @/@ main_reason_child_not_attending ~/~ enrolled_attending_non_formal_informal_education_program @/@ pop_group ~/~ prl,15,overall,admin0,Palestine Refugees from Lebanon
+147,prop_select_one @/@ main_reason_child_not_attending ~/~ other @/@ pop_group ~/~ prl,8,overall,admin0,Palestine Refugees from Lebanon
+148,prop_select_one @/@ governorate ~/~ akkar @/@ pop_group ~/~ Lebanese,6,overall,admin0,Lebanese
+149,prop_select_one @/@ governorate ~/~ baalbek_hermel @/@ pop_group ~/~ Lebanese,8,overall,admin0,Lebanese
+150,prop_select_one @/@ governorate ~/~ beirut @/@ pop_group ~/~ Lebanese,4,overall,admin0,Lebanese
+151,prop_select_one @/@ governorate ~/~ bekaa @/@ pop_group ~/~ Lebanese,11,overall,admin0,Lebanese
+152,prop_select_one @/@ governorate ~/~ mnt_lbn @/@ pop_group ~/~ Lebanese,22,overall,admin0,Lebanese
+153,prop_select_one @/@ governorate ~/~ nabatieh @/@ pop_group ~/~ Lebanese,10,overall,admin0,Lebanese
+154,prop_select_one @/@ governorate ~/~ north @/@ pop_group ~/~ Lebanese,27,overall,admin0,Lebanese
+155,prop_select_one @/@ governorate ~/~ south @/@ pop_group ~/~ Lebanese,11,overall,admin0,Lebanese
+156,prop_select_one @/@ governorate ~/~ akkar @/@ pop_group ~/~ migrant,11,overall,admin0,Migrant
+157,prop_select_one @/@ governorate ~/~ baalbek_hermel @/@ pop_group ~/~ migrant,10,overall,admin0,Migrant
+158,prop_select_one @/@ governorate ~/~ beirut @/@ pop_group ~/~ migrant,15,overall,admin0,Migrant
+159,prop_select_one @/@ governorate ~/~ bekaa @/@ pop_group ~/~ migrant,10,overall,admin0,Migrant
+160,prop_select_one @/@ governorate ~/~ mnt_lbn @/@ pop_group ~/~ migrant,16,overall,admin0,Migrant
+161,prop_select_one @/@ governorate ~/~ nabatieh @/@ pop_group ~/~ migrant,10,overall,admin0,Migrant
+162,prop_select_one @/@ governorate ~/~ north @/@ pop_group ~/~ migrant,16,overall,admin0,Migrant
+163,prop_select_one @/@ governorate ~/~ south @/@ pop_group ~/~ migrant,12,overall,admin0,Migrant
+164,prop_select_one @/@ governorate ~/~ akkar @/@ pop_group ~/~ prl,14,overall,admin0,Palestine Refugees from Lebanon
+165,prop_select_one @/@ governorate ~/~ baalbek_hermel @/@ pop_group ~/~ prl,16,overall,admin0,Palestine Refugees from Lebanon
+166,prop_select_one @/@ governorate ~/~ beirut @/@ pop_group ~/~ prl,32,overall,admin0,Palestine Refugees from Lebanon
+167,prop_select_one @/@ governorate ~/~ mnt_lbn @/@ pop_group ~/~ prl,2,overall,admin0,Palestine Refugees from Lebanon
+168,prop_select_one @/@ governorate ~/~ north @/@ pop_group ~/~ prl,16,overall,admin0,Palestine Refugees from Lebanon
+169,prop_select_one @/@ governorate ~/~ south @/@ pop_group ~/~ prl,20,overall,admin0,Palestine Refugees from Lebanon
+170,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,27,akkar,admin2,Lebanese
+171,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,75,akkar,admin1,Migrant
+172,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,21,akkar,admin1,Palestine Refugees from Lebanon
+173,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,22,aley,admin2,Lebanese
+174,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,23,baabda,admin2,Lebanese
+175,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,31,baalbek,admin2,Lebanese
+176,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,76,baalbek_hermel,admin1,Migrant
+177,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,25,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+178,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,26,batroun,admin2,Lebanese
+179,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,64,bcharre,admin2,Lebanese
+180,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,43,beirut,admin2,Lebanese
+181,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,27,beirut,admin1,Migrant
+182,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,40,beirut,admin1,Palestine Refugees from Lebanon
+183,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,17,bekaa,admin1,Migrant
+184,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,16,bent_jbeil,admin2,Lebanese
+185,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,20,chouf,admin2,Lebanese
+186,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,16,hasbaya,admin2,Lebanese
+187,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,15,hermel,admin2,Lebanese
+188,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,21,jbeil,admin2,Lebanese
+189,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,42,jezzine,admin2,Lebanese
+190,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,21,kesrwane,admin2,Lebanese
+191,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,37,koura,admin2,Lebanese
+192,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,12,marjaayoun,admin2,Lebanese
+193,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,11,meten,admin2,Lebanese
+194,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,13,minieh_dennie,admin2,Lebanese
+195,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,41,mnt_lbn,admin1,Migrant
+196,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,0,nabatieh,admin1,Migrant
+197,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,56,north,admin1,Migrant
+198,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,49,north,admin1,Palestine Refugees from Lebanon
+199,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,14,rachaya,admin2,Lebanese
+200,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,30,saida,admin2,Lebanese
+201,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,21,sour,admin2,Lebanese
+202,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,38,south,admin1,Migrant
+203,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,45,south,admin1,Palestine Refugees from Lebanon
+204,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,40,tripoli,admin2,Lebanese
+205,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,11,w_bekaa,admin2,Lebanese
+206,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,15,zahle,admin2,Lebanese
+207,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_listen_to_anyone_in_our_community @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,45,zgharta,admin2,Lebanese
+208,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,15,akkar,admin2,Lebanese
+209,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,25,akkar,admin1,Migrant
+210,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,5,akkar,admin1,Palestine Refugees from Lebanon
+211,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,32,aley,admin2,Lebanese
+212,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,23,baabda,admin2,Lebanese
+213,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,20,baalbek,admin2,Lebanese
+214,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,47,baalbek_hermel,admin1,Migrant
+215,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,32,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+216,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,26,batroun,admin2,Lebanese
+217,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,32,bcharre,admin2,Lebanese
+218,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,33,beirut,admin2,Lebanese
+219,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,20,beirut,admin1,Migrant
+220,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,26,beirut,admin1,Palestine Refugees from Lebanon
+221,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,42,bekaa,admin1,Migrant
+222,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,6,bent_jbeil,admin2,Lebanese
+223,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,33,chouf,admin2,Lebanese
+224,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,2,hasbaya,admin2,Lebanese
+225,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,28,hermel,admin2,Lebanese
+226,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,34,jbeil,admin2,Lebanese
+227,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,13,jezzine,admin2,Lebanese
+228,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,26,kesrwane,admin2,Lebanese
+229,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,10,koura,admin2,Lebanese
+230,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,0,marjaayoun,admin2,Lebanese
+231,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,37,meten,admin2,Lebanese
+232,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,17,minieh_dennie,admin2,Lebanese
+233,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,47,mnt_lbn,admin1,Migrant
+234,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,0,nabatieh,admin1,Migrant
+235,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,19,north,admin1,Migrant
+236,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,32,north,admin1,Palestine Refugees from Lebanon
+237,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,19,rachaya,admin2,Lebanese
+238,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,27,saida,admin2,Lebanese
+239,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,18,sour,admin2,Lebanese
+240,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,25,south,admin1,Migrant
+241,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,18,south,admin1,Palestine Refugees from Lebanon
+242,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,34,tripoli,admin2,Lebanese
+243,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,11,w_bekaa,admin2,Lebanese
+244,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,18,zahle,admin2,Lebanese
+245,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_speak_to_anyone_in_our_community @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,10,zgharta,admin2,Lebanese
+246,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,16,akkar,admin2,Lebanese
+247,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,0,akkar,admin1,Migrant
+248,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,29,akkar,admin1,Palestine Refugees from Lebanon
+249,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,25,aley,admin2,Lebanese
+250,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,23,baabda,admin2,Lebanese
+251,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,20,baalbek,admin2,Lebanese
+252,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,0,baalbek_hermel,admin1,Migrant
+253,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,21,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+254,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,21,batroun,admin2,Lebanese
+255,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,36,bcharre,admin2,Lebanese
+256,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,24,beirut,admin2,Lebanese
+257,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,7,beirut,admin1,Migrant
+258,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,28,beirut,admin1,Palestine Refugees from Lebanon
+259,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,8,bekaa,admin1,Migrant
+260,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,6,bent_jbeil,admin2,Lebanese
+261,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,27,chouf,admin2,Lebanese
+262,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,20,hasbaya,admin2,Lebanese
+263,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,22,hermel,admin2,Lebanese
+264,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,23,jbeil,admin2,Lebanese
+265,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,26,jezzine,admin2,Lebanese
+266,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,47,kesrwane,admin2,Lebanese
+267,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,24,koura,admin2,Lebanese
+268,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,15,marjaayoun,admin2,Lebanese
+269,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,16,meten,admin2,Lebanese
+270,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,15,minieh_dennie,admin2,Lebanese
+271,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,6,mnt_lbn,admin1,Migrant
+272,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,0,nabatieh,admin1,Migrant
+273,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,9,north,admin1,Migrant
+274,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,10,north,admin1,Palestine Refugees from Lebanon
+275,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,29,rachaya,admin2,Lebanese
+276,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,27,saida,admin2,Lebanese
+277,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,29,sour,admin2,Lebanese
+278,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,0,south,admin1,Migrant
+279,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,18,south,admin1,Palestine Refugees from Lebanon
+280,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,17,tripoli,admin2,Lebanese
+281,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,47,w_bekaa,admin2,Lebanese
+282,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,38,zahle,admin2,Lebanese
+283,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_listen_to_local_leaders_head_men @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,18,zgharta,admin2,Lebanese
+284,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,10,akkar,admin2,Lebanese
+285,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,0,akkar,admin1,Migrant
+286,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,24,akkar,admin1,Palestine Refugees from Lebanon
+287,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,20,aley,admin2,Lebanese
+288,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,0,baabda,admin2,Lebanese
+289,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,14,baalbek,admin2,Lebanese
+290,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,0,baalbek_hermel,admin1,Migrant
+291,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,25,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+292,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,8,batroun,admin2,Lebanese
+293,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,15,bcharre,admin2,Lebanese
+294,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,33,beirut,admin2,Lebanese
+295,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,7,beirut,admin1,Migrant
+296,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,11,beirut,admin1,Palestine Refugees from Lebanon
+297,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,8,bekaa,admin1,Migrant
+298,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,13,bent_jbeil,admin2,Lebanese
+299,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,20,chouf,admin2,Lebanese
+300,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,13,hasbaya,admin2,Lebanese
+301,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,18,hermel,admin2,Lebanese
+302,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,23,jbeil,admin2,Lebanese
+303,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,7,jezzine,admin2,Lebanese
+304,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,16,kesrwane,admin2,Lebanese
+305,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,15,koura,admin2,Lebanese
+306,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,5,marjaayoun,admin2,Lebanese
+307,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,11,meten,admin2,Lebanese
+308,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,15,minieh_dennie,admin2,Lebanese
+309,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,0,mnt_lbn,admin1,Migrant
+310,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,0,nabatieh,admin1,Migrant
+311,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,0,north,admin1,Migrant
+312,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,3,north,admin1,Palestine Refugees from Lebanon
+313,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,33,rachaya,admin2,Lebanese
+314,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,21,saida,admin2,Lebanese
+315,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,21,sour,admin2,Lebanese
+316,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,0,south,admin1,Migrant
+317,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,0,south,admin1,Palestine Refugees from Lebanon
+318,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,13,tripoli,admin2,Lebanese
+319,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,31,w_bekaa,admin2,Lebanese
+320,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,37,zahle,admin2,Lebanese
+321,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ only_speak_to_local_leaders_head_men @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,8,zgharta,admin2,Lebanese
+322,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,41,akkar,admin2,Lebanese
+323,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,0,akkar,admin1,Migrant
+324,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,33,akkar,admin1,Palestine Refugees from Lebanon
+325,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,12,aley,admin2,Lebanese
+326,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,15,baabda,admin2,Lebanese
+327,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,22,baalbek,admin2,Lebanese
+328,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,0,baalbek_hermel,admin1,Migrant
+329,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,29,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+330,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,55,batroun,admin2,Lebanese
+331,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,19,bcharre,admin2,Lebanese
+332,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,12,beirut,admin2,Lebanese
+333,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,33,beirut,admin1,Migrant
+334,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,17,beirut,admin1,Palestine Refugees from Lebanon
+335,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,0,bekaa,admin1,Migrant
+336,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,0,bent_jbeil,admin2,Lebanese
+337,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,13,chouf,admin2,Lebanese
+338,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,33,hasbaya,admin2,Lebanese
+339,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,18,hermel,admin2,Lebanese
+340,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,40,jbeil,admin2,Lebanese
+341,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,8,jezzine,admin2,Lebanese
+342,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,21,kesrwane,admin2,Lebanese
+343,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,46,koura,admin2,Lebanese
+344,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,15,marjaayoun,admin2,Lebanese
+345,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,11,meten,admin2,Lebanese
+346,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,83,minieh_dennie,admin2,Lebanese
+347,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,12,mnt_lbn,admin1,Migrant
+348,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,33,nabatieh,admin1,Migrant
+349,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,9,north,admin1,Migrant
+350,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,3,north,admin1,Palestine Refugees from Lebanon
+351,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,17,rachaya,admin2,Lebanese
+352,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,19,saida,admin2,Lebanese
+353,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,26,sour,admin2,Lebanese
+354,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,38,south,admin1,Migrant
+355,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,9,south,admin1,Palestine Refugees from Lebanon
+356,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,46,tripoli,admin2,Lebanese
+357,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,22,w_bekaa,admin2,Lebanese
+358,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,24,zahle,admin2,Lebanese
+359,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ when_we_give_them_feedback_or_make_complaints_nothing_changes @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,31,zgharta,admin2,Lebanese
+360,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,15,akkar,admin2,Lebanese
+361,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,25,akkar,admin1,Migrant
+362,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,7,akkar,admin1,Palestine Refugees from Lebanon
+363,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,12,aley,admin2,Lebanese
+364,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,8,baabda,admin2,Lebanese
+365,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,12,baalbek,admin2,Lebanese
+366,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,0,baalbek_hermel,admin1,Migrant
+367,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,21,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+368,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,18,batroun,admin2,Lebanese
+369,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,6,bcharre,admin2,Lebanese
+370,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,18,beirut,admin2,Lebanese
+371,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,47,beirut,admin1,Migrant
+372,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,11,beirut,admin1,Palestine Refugees from Lebanon
+373,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,0,bekaa,admin1,Migrant
+374,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,65,bent_jbeil,admin2,Lebanese
+375,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,7,chouf,admin2,Lebanese
+376,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,38,hasbaya,admin2,Lebanese
+377,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,10,hermel,admin2,Lebanese
+378,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,33,jbeil,admin2,Lebanese
+379,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,28,jezzine,admin2,Lebanese
+380,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,0,kesrwane,admin2,Lebanese
+381,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,10,koura,admin2,Lebanese
+382,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,68,marjaayoun,admin2,Lebanese
+383,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,16,meten,admin2,Lebanese
+384,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,25,minieh_dennie,admin2,Lebanese
+385,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,18,mnt_lbn,admin1,Migrant
+386,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,33,nabatieh,admin1,Migrant
+387,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,9,north,admin1,Migrant
+388,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,0,north,admin1,Palestine Refugees from Lebanon
+389,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,19,rachaya,admin2,Lebanese
+390,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,17,saida,admin2,Lebanese
+391,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,15,sour,admin2,Lebanese
+392,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,0,south,admin1,Migrant
+393,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,0,south,admin1,Palestine Refugees from Lebanon
+394,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,14,tripoli,admin2,Lebanese
+395,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,24,w_bekaa,admin2,Lebanese
+396,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,31,zahle,admin2,Lebanese
+397,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ do_not_provide_enough_information_about_registration_eligibility_or_distributions @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,9,zgharta,admin2,Lebanese
+398,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,1,akkar,admin2,Lebanese
+399,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,0,akkar,admin1,Migrant
+400,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,0,akkar,admin1,Palestine Refugees from Lebanon
+401,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,8,aley,admin2,Lebanese
+402,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,23,baabda,admin2,Lebanese
+403,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,0,baalbek,admin2,Lebanese
+404,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,0,baalbek_hermel,admin1,Migrant
+405,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,4,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+406,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,0,batroun,admin2,Lebanese
+407,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,0,bcharre,admin2,Lebanese
+408,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,2,beirut,admin2,Lebanese
+409,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,0,beirut,admin1,Migrant
+410,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,0,beirut,admin1,Palestine Refugees from Lebanon
+411,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,0,bekaa,admin1,Migrant
+412,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,0,bent_jbeil,admin2,Lebanese
+413,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,0,chouf,admin2,Lebanese
+414,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,0,hasbaya,admin2,Lebanese
+415,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,0,hermel,admin2,Lebanese
+416,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,3,jbeil,admin2,Lebanese
+417,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,0,jezzine,admin2,Lebanese
+418,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,5,kesrwane,admin2,Lebanese
+419,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,0,koura,admin2,Lebanese
+420,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,0,marjaayoun,admin2,Lebanese
+421,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,0,meten,admin2,Lebanese
+422,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,2,minieh_dennie,admin2,Lebanese
+423,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,0,mnt_lbn,admin1,Migrant
+424,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,0,nabatieh,admin1,Migrant
+425,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,6,north,admin1,Migrant
+426,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,0,north,admin1,Palestine Refugees from Lebanon
+427,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,2,rachaya,admin2,Lebanese
+428,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,0,saida,admin2,Lebanese
+429,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,0,sour,admin2,Lebanese
+430,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,0,south,admin1,Migrant
+431,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,0,south,admin1,Palestine Refugees from Lebanon
+432,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,3,tripoli,admin2,Lebanese
+433,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,7,w_bekaa,admin2,Lebanese
+434,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,1,zahle,admin2,Lebanese
+435,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ show_lack_of_respect_for_local_cultures @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,0,zgharta,admin2,Lebanese
+436,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,0,akkar,admin2,Lebanese
+437,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,25,akkar,admin1,Migrant
+438,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,0,akkar,admin1,Palestine Refugees from Lebanon
+439,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,2,aley,admin2,Lebanese
+440,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,0,baabda,admin2,Lebanese
+441,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,0,baalbek,admin2,Lebanese
+442,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,0,baalbek_hermel,admin1,Migrant
+443,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,4,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+444,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,5,batroun,admin2,Lebanese
+445,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,2,bcharre,admin2,Lebanese
+446,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,4,beirut,admin2,Lebanese
+447,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,7,beirut,admin1,Migrant
+448,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,23,beirut,admin1,Palestine Refugees from Lebanon
+449,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,8,bekaa,admin1,Migrant
+450,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,0,bent_jbeil,admin2,Lebanese
+451,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,0,chouf,admin2,Lebanese
+452,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,0,hasbaya,admin2,Lebanese
+453,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,2,hermel,admin2,Lebanese
+454,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,5,jbeil,admin2,Lebanese
+455,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,0,jezzine,admin2,Lebanese
+456,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,16,kesrwane,admin2,Lebanese
+457,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,5,koura,admin2,Lebanese
+458,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,5,marjaayoun,admin2,Lebanese
+459,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,11,meten,admin2,Lebanese
+460,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,0,minieh_dennie,admin2,Lebanese
+461,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,0,mnt_lbn,admin1,Migrant
+462,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,0,nabatieh,admin1,Migrant
+463,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,9,north,admin1,Migrant
+464,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,1,north,admin1,Palestine Refugees from Lebanon
+465,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,0,rachaya,admin2,Lebanese
+466,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,0,saida,admin2,Lebanese
+467,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,0,sour,admin2,Lebanese
+468,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,12,south,admin1,Migrant
+469,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,0,south,admin1,Palestine Refugees from Lebanon
+470,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,11,tripoli,admin2,Lebanese
+471,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,7,w_bekaa,admin2,Lebanese
+472,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,6,zahle,admin2,Lebanese
+473,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ are_disrespectful_in_their_interactions_with_individual_members_of_our_community @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,4,zgharta,admin2,Lebanese
+474,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,0,akkar,admin2,Lebanese
+475,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,25,akkar,admin1,Migrant
+476,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,0,akkar,admin1,Palestine Refugees from Lebanon
+477,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,0,aley,admin2,Lebanese
+478,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,0,baabda,admin2,Lebanese
+479,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,4,baalbek,admin2,Lebanese
+480,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,0,baalbek_hermel,admin1,Migrant
+481,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,0,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+482,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,3,batroun,admin2,Lebanese
+483,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,0,bcharre,admin2,Lebanese
+484,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,0,beirut,admin2,Lebanese
+485,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,0,beirut,admin1,Migrant
+486,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,0,beirut,admin1,Palestine Refugees from Lebanon
+487,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,0,bekaa,admin1,Migrant
+488,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,0,bent_jbeil,admin2,Lebanese
+489,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,0,chouf,admin2,Lebanese
+490,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,0,hasbaya,admin2,Lebanese
+491,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,0,hermel,admin2,Lebanese
+492,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,0,jbeil,admin2,Lebanese
+493,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,0,jezzine,admin2,Lebanese
+494,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,0,kesrwane,admin2,Lebanese
+495,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,0,koura,admin2,Lebanese
+496,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,0,marjaayoun,admin2,Lebanese
+497,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,5,meten,admin2,Lebanese
+498,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,0,minieh_dennie,admin2,Lebanese
+499,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,0,mnt_lbn,admin1,Migrant
+500,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,0,nabatieh,admin1,Migrant
+501,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,6,north,admin1,Migrant
+502,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,0,north,admin1,Palestine Refugees from Lebanon
+503,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,0,rachaya,admin2,Lebanese
+504,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,0,saida,admin2,Lebanese
+505,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,0,sour,admin2,Lebanese
+506,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,0,south,admin1,Migrant
+507,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,0,south,admin1,Palestine Refugees from Lebanon
+508,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,0,tripoli,admin2,Lebanese
+509,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,0,w_bekaa,admin2,Lebanese
+510,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,0,zahle,admin2,Lebanese
+511,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ asked_for_favors_in_exchange_for_the_aid_service @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,0,zgharta,admin2,Lebanese
+512,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,1,akkar,admin2,Lebanese
+513,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,0,akkar,admin1,Migrant
+514,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,0,akkar,admin1,Palestine Refugees from Lebanon
+515,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,0,aley,admin2,Lebanese
+516,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,0,baabda,admin2,Lebanese
+517,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,0,baalbek,admin2,Lebanese
+518,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,0,baalbek_hermel,admin1,Migrant
+519,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,0,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+520,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,0,batroun,admin2,Lebanese
+521,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,0,bcharre,admin2,Lebanese
+522,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,0,beirut,admin2,Lebanese
+523,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,0,beirut,admin1,Migrant
+524,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,6,beirut,admin1,Palestine Refugees from Lebanon
+525,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,33,bekaa,admin1,Migrant
+526,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,0,bent_jbeil,admin2,Lebanese
+527,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,0,chouf,admin2,Lebanese
+528,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,7,hasbaya,admin2,Lebanese
+529,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,3,hermel,admin2,Lebanese
+530,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,0,jbeil,admin2,Lebanese
+531,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,4,jezzine,admin2,Lebanese
+532,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,0,kesrwane,admin2,Lebanese
+533,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,2,koura,admin2,Lebanese
+534,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,2,marjaayoun,admin2,Lebanese
+535,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,0,meten,admin2,Lebanese
+536,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,0,minieh_dennie,admin2,Lebanese
+537,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,0,mnt_lbn,admin1,Migrant
+538,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,33,nabatieh,admin1,Migrant
+539,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,6,north,admin1,Migrant
+540,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,0,north,admin1,Palestine Refugees from Lebanon
+541,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,17,rachaya,admin2,Lebanese
+542,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,0,saida,admin2,Lebanese
+543,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,0,sour,admin2,Lebanese
+544,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,0,south,admin1,Migrant
+545,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,9,south,admin1,Palestine Refugees from Lebanon
+546,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,0,tripoli,admin2,Lebanese
+547,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,11,w_bekaa,admin2,Lebanese
+548,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,7,zahle,admin2,Lebanese
+549,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ other @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,0,zgharta,admin2,Lebanese
+550,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,0,akkar,admin2,Lebanese
+551,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,25,akkar,admin1,Migrant
+552,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,2,akkar,admin1,Palestine Refugees from Lebanon
+553,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,0,aley,admin2,Lebanese
+554,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,8,baabda,admin2,Lebanese
+555,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,2,baalbek,admin2,Lebanese
+556,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,0,baalbek_hermel,admin1,Migrant
+557,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,0,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+558,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,5,batroun,admin2,Lebanese
+559,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,9,bcharre,admin2,Lebanese
+560,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,4,beirut,admin2,Lebanese
+561,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,7,beirut,admin1,Migrant
+562,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,0,beirut,admin1,Palestine Refugees from Lebanon
+563,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,0,bekaa,admin1,Migrant
+564,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,0,bent_jbeil,admin2,Lebanese
+565,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,0,chouf,admin2,Lebanese
+566,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,4,hasbaya,admin2,Lebanese
+567,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,2,hermel,admin2,Lebanese
+568,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,0,jbeil,admin2,Lebanese
+569,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,0,jezzine,admin2,Lebanese
+570,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,0,kesrwane,admin2,Lebanese
+571,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,0,koura,admin2,Lebanese
+572,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,0,marjaayoun,admin2,Lebanese
+573,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,0,meten,admin2,Lebanese
+574,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,0,minieh_dennie,admin2,Lebanese
+575,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,0,mnt_lbn,admin1,Migrant
+576,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,0,nabatieh,admin1,Migrant
+577,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,3,north,admin1,Migrant
+578,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,7,north,admin1,Palestine Refugees from Lebanon
+579,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,0,rachaya,admin2,Lebanese
+580,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,0,saida,admin2,Lebanese
+581,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,0,sour,admin2,Lebanese
+582,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,25,south,admin1,Migrant
+583,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,18,south,admin1,Palestine Refugees from Lebanon
+584,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,1,tripoli,admin2,Lebanese
+585,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,0,w_bekaa,admin2,Lebanese
+586,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,1,zahle,admin2,Lebanese
+587,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ dont_know @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,3,zgharta,admin2,Lebanese
+588,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,0,akkar,admin2,Lebanese
+589,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,0,akkar,admin1,Migrant
+590,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,17,akkar,admin1,Palestine Refugees from Lebanon
+591,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,0,aley,admin2,Lebanese
+592,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,0,baabda,admin2,Lebanese
+593,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,0,baalbek,admin2,Lebanese
+594,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,0,baalbek_hermel,admin1,Migrant
+595,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,4,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+596,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,0,batroun,admin2,Lebanese
+597,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,4,bcharre,admin2,Lebanese
+598,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,2,beirut,admin2,Lebanese
+599,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,0,beirut,admin1,Migrant
+600,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,4,beirut,admin1,Palestine Refugees from Lebanon
+601,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,0,bekaa,admin1,Migrant
+602,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,3,bent_jbeil,admin2,Lebanese
+603,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,0,chouf,admin2,Lebanese
+604,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,2,hasbaya,admin2,Lebanese
+605,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,7,hermel,admin2,Lebanese
+606,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,5,jbeil,admin2,Lebanese
+607,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,1,jezzine,admin2,Lebanese
+608,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,0,kesrwane,admin2,Lebanese
+609,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,0,koura,admin2,Lebanese
+610,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,0,marjaayoun,admin2,Lebanese
+611,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,0,meten,admin2,Lebanese
+612,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,0,minieh_dennie,admin2,Lebanese
+613,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,0,mnt_lbn,admin1,Migrant
+614,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,0,nabatieh,admin1,Migrant
+615,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,0,north,admin1,Migrant
+616,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,1,north,admin1,Palestine Refugees from Lebanon
+617,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,5,rachaya,admin2,Lebanese
+618,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,0,saida,admin2,Lebanese
+619,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,0,sour,admin2,Lebanese
+620,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,12,south,admin1,Migrant
+621,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,0,south,admin1,Palestine Refugees from Lebanon
+622,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,0,tripoli,admin2,Lebanese
+623,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,0,w_bekaa,admin2,Lebanese
+624,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,0,zahle,admin2,Lebanese
+625,prop_select_multiple @/@ reason_hh_not_satisfied_with_the_way_aid_workers_generally_behave ~/~ prefer_not_to_answer @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,0,zgharta,admin2,Lebanese
+626,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,51.71465969,akkar,admin2,Lebanese
+627,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,54.83333333,akkar,admin1,Migrant
+628,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,38.70952381,akkar,admin1,Palestine Refugees from Lebanon
+629,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,59.84246575,aley,admin2,Lebanese
+630,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,55.16814159,baabda,admin2,Lebanese
+631,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,64.44366197,baalbek,admin2,Lebanese
+632,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,79.73706897,baalbek_hermel,admin1,Migrant
+633,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,69.08910891,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+634,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,55.38580247,batroun,admin2,Lebanese
+635,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,59.65384615,bcharre,admin2,Lebanese
+636,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,59.48265896,beirut,admin2,Lebanese
+637,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,49.33680556,beirut,admin1,Migrant
+638,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,57.27950311,beirut,admin1,Palestine Refugees from Lebanon
+639,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,81,bekaa,admin1,Migrant
+640,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,66.38888889,bent_jbeil,admin2,Lebanese
+641,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,63.58561644,chouf,admin2,Lebanese
+642,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,67.89455782,hasbaya,admin2,Lebanese
+643,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,56.12582781,hermel,admin2,Lebanese
+644,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,62.53773585,jbeil,admin2,Lebanese
+645,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,64.06441718,jezzine,admin2,Lebanese
+646,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,63.18322981,kesrwane,admin2,Lebanese
+647,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,55.80612245,koura,admin2,Lebanese
+648,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,68.98958333,marjaayoun,admin2,Lebanese
+649,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,64.57861635,meten,admin2,Lebanese
+650,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,51.64765101,minieh_dennie,admin2,Lebanese
+651,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,51.35384615,mnt_lbn,admin1,Migrant
+652,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ prl,50.88888889,mnt_lbn,admin1,Palestine Refugees from Lebanon
+653,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,76.95522388,nabatieh,admin1,Migrant
+654,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,58.06060606,north,admin1,Migrant
+655,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,30.48351648,north,admin1,Palestine Refugees from Lebanon
+656,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,69.35294118,rachaya,admin2,Lebanese
+657,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,60.54166667,saida,admin2,Lebanese
+658,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,65.84965035,sour,admin2,Lebanese
+659,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,67.28571429,south,admin1,Migrant
+660,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,40.84466019,south,admin1,Palestine Refugees from Lebanon
+661,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,47.44871795,tripoli,admin2,Lebanese
+662,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,70.37943262,w_bekaa,admin2,Lebanese
+663,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,65.04081633,zahle,admin2,Lebanese
+664,mean @/@ i_fcs ~/~ NA @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,49.253125,zgharta,admin2,Lebanese
+665,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,73,akkar,admin2,Lebanese
+666,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,14,akkar,admin2,Lebanese
+667,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,13,akkar,admin2,Lebanese
+668,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,78,akkar,admin1,Migrant
+669,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,20,akkar,admin1,Migrant
+670,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,2,akkar,admin1,Migrant
+671,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,30,akkar,admin1,Palestine Refugees from Lebanon
+672,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,30,akkar,admin1,Palestine Refugees from Lebanon
+673,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,40,akkar,admin1,Palestine Refugees from Lebanon
+674,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,81,aley,admin2,Lebanese
+675,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,18,aley,admin2,Lebanese
+676,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,1,aley,admin2,Lebanese
+677,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,79,baabda,admin2,Lebanese
+678,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,17,baabda,admin2,Lebanese
+679,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,4,baabda,admin2,Lebanese
+680,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,79,baalbek,admin2,Lebanese
+681,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,14,baalbek,admin2,Lebanese
+682,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,7,baalbek,admin2,Lebanese
+683,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,97,baalbek_hermel,admin1,Migrant
+684,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,3,baalbek_hermel,admin1,Migrant
+685,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,90,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+686,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,5,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+687,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,5,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+688,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,78,batroun,admin2,Lebanese
+689,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,17,batroun,admin2,Lebanese
+690,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,5,batroun,admin2,Lebanese
+691,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,82,bcharre,admin2,Lebanese
+692,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,12,bcharre,admin2,Lebanese
+693,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,6,bcharre,admin2,Lebanese
+694,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,71,beirut,admin2,Lebanese
+695,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,18,beirut,admin2,Lebanese
+696,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,12,beirut,admin2,Lebanese
+697,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,62,beirut,admin1,Migrant
+698,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,26,beirut,admin1,Migrant
+699,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,12,beirut,admin1,Migrant
+700,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,76,beirut,admin1,Palestine Refugees from Lebanon
+701,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,20,beirut,admin1,Palestine Refugees from Lebanon
+702,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,3,beirut,admin1,Palestine Refugees from Lebanon
+703,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,98,bekaa,admin1,Migrant
+704,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,2,bekaa,admin1,Migrant
+705,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,96,bent_jbeil,admin2,Lebanese
+706,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,4,bent_jbeil,admin2,Lebanese
+707,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,88,chouf,admin2,Lebanese
+708,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,10,chouf,admin2,Lebanese
+709,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,1,chouf,admin2,Lebanese
+710,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,95,hasbaya,admin2,Lebanese
+711,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,4,hasbaya,admin2,Lebanese
+712,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,1,hasbaya,admin2,Lebanese
+713,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,68,hermel,admin2,Lebanese
+714,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,30,hermel,admin2,Lebanese
+715,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,2,hermel,admin2,Lebanese
+716,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,79,jbeil,admin2,Lebanese
+717,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,18,jbeil,admin2,Lebanese
+718,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,2,jbeil,admin2,Lebanese
+719,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,91,jezzine,admin2,Lebanese
+720,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,9,jezzine,admin2,Lebanese
+721,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,87,kesrwane,admin2,Lebanese
+722,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,11,kesrwane,admin2,Lebanese
+723,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,2,kesrwane,admin2,Lebanese
+724,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,71,koura,admin2,Lebanese
+725,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,20,koura,admin2,Lebanese
+726,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,8,koura,admin2,Lebanese
+727,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,96,marjaayoun,admin2,Lebanese
+728,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,4,marjaayoun,admin2,Lebanese
+729,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,87,meten,admin2,Lebanese
+730,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,11,meten,admin2,Lebanese
+731,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,2,meten,admin2,Lebanese
+732,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,80,minieh_dennie,admin2,Lebanese
+733,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,18,minieh_dennie,admin2,Lebanese
+734,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,2,minieh_dennie,admin2,Lebanese
+735,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,61,mnt_lbn,admin1,Migrant
+736,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,28,mnt_lbn,admin1,Migrant
+737,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,12,mnt_lbn,admin1,Migrant
+738,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ prl,78,mnt_lbn,admin1,Palestine Refugees from Lebanon
+739,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ prl,22,mnt_lbn,admin1,Palestine Refugees from Lebanon
+740,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,98,nabatieh,admin1,Migrant
+741,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,1,nabatieh,admin1,Migrant
+742,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,1,nabatieh,admin1,Migrant
+743,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,75,north,admin1,Migrant
+744,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,15,north,admin1,Migrant
+745,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,10,north,admin1,Migrant
+746,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,16,north,admin1,Palestine Refugees from Lebanon
+747,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,33,north,admin1,Palestine Refugees from Lebanon
+748,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,51,north,admin1,Palestine Refugees from Lebanon
+749,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,91,rachaya,admin2,Lebanese
+750,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,7,rachaya,admin2,Lebanese
+751,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,1,rachaya,admin2,Lebanese
+752,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,85,saida,admin2,Lebanese
+753,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,14,saida,admin2,Lebanese
+754,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,1,saida,admin2,Lebanese
+755,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,94,sour,admin2,Lebanese
+756,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,4,sour,admin2,Lebanese
+757,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,1,sour,admin2,Lebanese
+758,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,82,south,admin1,Migrant
+759,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,14,south,admin1,Migrant
+760,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,5,south,admin1,Migrant
+761,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,43,south,admin1,Palestine Refugees from Lebanon
+762,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,32,south,admin1,Palestine Refugees from Lebanon
+763,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,25,south,admin1,Palestine Refugees from Lebanon
+764,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,51,tripoli,admin2,Lebanese
+765,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,26,tripoli,admin2,Lebanese
+766,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,23,tripoli,admin2,Lebanese
+767,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,91,w_bekaa,admin2,Lebanese
+768,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,6,w_bekaa,admin2,Lebanese
+769,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,3,w_bekaa,admin2,Lebanese
+770,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,79,zahle,admin2,Lebanese
+771,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,16,zahle,admin2,Lebanese
+772,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,5,zahle,admin2,Lebanese
+773,prop_select_one @/@ i_fcs_category ~/~ Acceptable @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,54,zgharta,admin2,Lebanese
+774,prop_select_one @/@ i_fcs_category ~/~ Borderline @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,30,zgharta,admin2,Lebanese
+775,prop_select_one @/@ i_fcs_category ~/~ Poor @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,16,zgharta,admin2,Lebanese
+776,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,19.10880829,akkar,admin2,Lebanese
+777,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,3.733333333,akkar,admin1,Migrant
+778,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,8.839622642,akkar,admin1,Palestine Refugees from Lebanon
+779,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,16.52739726,aley,admin2,Lebanese
+780,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,14.45132743,baabda,admin2,Lebanese
+781,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,14.56643357,baalbek,admin2,Lebanese
+782,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,0.151724138,baalbek_hermel,admin1,Migrant
+783,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,13.7254902,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+784,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,9.827160494,batroun,admin2,Lebanese
+785,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,9.32748538,bcharre,admin2,Lebanese
+786,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,11.8908046,beirut,admin2,Lebanese
+787,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,16.22758621,beirut,admin1,Migrant
+788,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,20.54037267,beirut,admin1,Palestine Refugees from Lebanon
+789,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,1.335714286,bekaa,admin1,Migrant
+790,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,12.65972222,bent_jbeil,admin2,Lebanese
+791,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,17.67567568,chouf,admin2,Lebanese
+792,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,13.63265306,hasbaya,admin2,Lebanese
+793,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,15.2781457,hermel,admin2,Lebanese
+794,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,9.599056604,jbeil,admin2,Lebanese
+795,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,11.27439024,jezzine,admin2,Lebanese
+796,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,13.46341463,kesrwane,admin2,Lebanese
+797,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,12.48979592,koura,admin2,Lebanese
+798,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,11.875,marjaayoun,admin2,Lebanese
+799,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,13.34375,meten,admin2,Lebanese
+800,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,15.98657718,minieh_dennie,admin2,Lebanese
+801,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,10.31034483,mnt_lbn,admin1,Migrant
+802,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ prl,20.11111111,mnt_lbn,admin1,Palestine Refugees from Lebanon
+803,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,1.620689655,nabatieh,admin1,Migrant
+804,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,7.307142857,north,admin1,Migrant
+805,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,10.54716981,north,admin1,Palestine Refugees from Lebanon
+806,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,9.401459854,rachaya,admin2,Lebanese
+807,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,11.625,saida,admin2,Lebanese
+808,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,12.02097902,sour,admin2,Lebanese
+809,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,2.517241379,south,admin1,Migrant
+810,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,7.801886792,south,admin1,Palestine Refugees from Lebanon
+811,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,18.22978723,tripoli,admin2,Lebanese
+812,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,10.85416667,w_bekaa,admin2,Lebanese
+813,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,11.57718121,zahle,admin2,Lebanese
+814,mean @/@ i_rcsi ~/~ NA @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,12.625,zgharta,admin2,Lebanese
+815,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,46,akkar,admin2,Lebanese
+816,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,12,akkar,admin2,Lebanese
+817,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,42,akkar,admin2,Lebanese
+818,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,6,akkar,admin1,Migrant
+819,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,73,akkar,admin1,Migrant
+820,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,21,akkar,admin1,Migrant
+821,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,17,akkar,admin1,Palestine Refugees from Lebanon
+822,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,48,akkar,admin1,Palestine Refugees from Lebanon
+823,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,35,akkar,admin1,Palestine Refugees from Lebanon
+824,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,36,aley,admin2,Lebanese
+825,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,28,aley,admin2,Lebanese
+826,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,36,aley,admin2,Lebanese
+827,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,30,baabda,admin2,Lebanese
+828,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,26,baabda,admin2,Lebanese
+829,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,44,baabda,admin2,Lebanese
+830,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,27,baalbek,admin2,Lebanese
+831,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,12,baalbek,admin2,Lebanese
+832,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,61,baalbek,admin2,Lebanese
+833,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,98,baalbek_hermel,admin1,Migrant
+834,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,2,baalbek_hermel,admin1,Migrant
+835,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,25,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+836,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,16,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+837,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,59,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+838,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,18,batroun,admin2,Lebanese
+839,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,25,batroun,admin2,Lebanese
+840,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,57,batroun,admin2,Lebanese
+841,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,16,bcharre,admin2,Lebanese
+842,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,28,bcharre,admin2,Lebanese
+843,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,56,bcharre,admin2,Lebanese
+844,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,22,beirut,admin2,Lebanese
+845,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,30,beirut,admin2,Lebanese
+846,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,48,beirut,admin2,Lebanese
+847,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,43,beirut,admin1,Migrant
+848,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,21,beirut,admin1,Migrant
+849,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,36,beirut,admin1,Migrant
+850,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,48,beirut,admin1,Palestine Refugees from Lebanon
+851,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,11,beirut,admin1,Palestine Refugees from Lebanon
+852,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,42,beirut,admin1,Palestine Refugees from Lebanon
+853,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,2,bekaa,admin1,Migrant
+854,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,90,bekaa,admin1,Migrant
+855,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,8,bekaa,admin1,Migrant
+856,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,22,bent_jbeil,admin2,Lebanese
+857,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,19,bent_jbeil,admin2,Lebanese
+858,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,59,bent_jbeil,admin2,Lebanese
+859,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,45,chouf,admin2,Lebanese
+860,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,31,chouf,admin2,Lebanese
+861,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,24,chouf,admin2,Lebanese
+862,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,23,hasbaya,admin2,Lebanese
+863,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,12,hasbaya,admin2,Lebanese
+864,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,65,hasbaya,admin2,Lebanese
+865,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,32,hermel,admin2,Lebanese
+866,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,15,hermel,admin2,Lebanese
+867,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,52,hermel,admin2,Lebanese
+868,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,12,jbeil,admin2,Lebanese
+869,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,32,jbeil,admin2,Lebanese
+870,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,57,jbeil,admin2,Lebanese
+871,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,18,jezzine,admin2,Lebanese
+872,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,26,jezzine,admin2,Lebanese
+873,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,57,jezzine,admin2,Lebanese
+874,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,27,kesrwane,admin2,Lebanese
+875,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,39,kesrwane,admin2,Lebanese
+876,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,34,kesrwane,admin2,Lebanese
+877,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,24,koura,admin2,Lebanese
+878,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,30,koura,admin2,Lebanese
+879,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,46,koura,admin2,Lebanese
+880,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,22,marjaayoun,admin2,Lebanese
+881,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,15,marjaayoun,admin2,Lebanese
+882,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,63,marjaayoun,admin2,Lebanese
+883,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,25,meten,admin2,Lebanese
+884,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,34,meten,admin2,Lebanese
+885,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,41,meten,admin2,Lebanese
+886,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,35,minieh_dennie,admin2,Lebanese
+887,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,8,minieh_dennie,admin2,Lebanese
+888,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,57,minieh_dennie,admin2,Lebanese
+889,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,19,mnt_lbn,admin1,Migrant
+890,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,34,mnt_lbn,admin1,Migrant
+891,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,47,mnt_lbn,admin1,Migrant
+892,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ prl,44,mnt_lbn,admin1,Palestine Refugees from Lebanon
+893,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ prl,56,mnt_lbn,admin1,Palestine Refugees from Lebanon
+894,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,3,nabatieh,admin1,Migrant
+895,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,91,nabatieh,admin1,Migrant
+896,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,6,nabatieh,admin1,Migrant
+897,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,14,north,admin1,Migrant
+898,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,58,north,admin1,Migrant
+899,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,29,north,admin1,Migrant
+900,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,17,north,admin1,Palestine Refugees from Lebanon
+901,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,17,north,admin1,Palestine Refugees from Lebanon
+902,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,66,north,admin1,Palestine Refugees from Lebanon
+903,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,15,rachaya,admin2,Lebanese
+904,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,39,rachaya,admin2,Lebanese
+905,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,45,rachaya,admin2,Lebanese
+906,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,15,saida,admin2,Lebanese
+907,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,17,saida,admin2,Lebanese
+908,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,69,saida,admin2,Lebanese
+909,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,23,sour,admin2,Lebanese
+910,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,20,sour,admin2,Lebanese
+911,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,57,sour,admin2,Lebanese
+912,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,5,south,admin1,Migrant
+913,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,83,south,admin1,Migrant
+914,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,12,south,admin1,Migrant
+915,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,8,south,admin1,Palestine Refugees from Lebanon
+916,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,41,south,admin1,Palestine Refugees from Lebanon
+917,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,51,south,admin1,Palestine Refugees from Lebanon
+918,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,40,tripoli,admin2,Lebanese
+919,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,11,tripoli,admin2,Lebanese
+920,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,49,tripoli,admin2,Lebanese
+921,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,19,w_bekaa,admin2,Lebanese
+922,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,33,w_bekaa,admin2,Lebanese
+923,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,48,w_bekaa,admin2,Lebanese
+924,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,23,zahle,admin2,Lebanese
+925,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,28,zahle,admin2,Lebanese
+926,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,49,zahle,admin2,Lebanese
+927,prop_select_one @/@ i_rcsi_cat ~/~ High @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,26,zgharta,admin2,Lebanese
+928,prop_select_one @/@ i_rcsi_cat ~/~ Low @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,22,zgharta,admin2,Lebanese
+929,prop_select_one @/@ i_rcsi_cat ~/~ Medium @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,51,zgharta,admin2,Lebanese
+930,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ akkar ~/~ pop_group ~/~ Lebanese,0.829015544,akkar,admin2,Lebanese
+931,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ akkar ~/~ pop_group ~/~ migrant,0.125,akkar,admin1,Migrant
+932,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ akkar ~/~ pop_group ~/~ prl,0.285714286,akkar,admin1,Palestine Refugees from Lebanon
+933,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ aley ~/~ pop_group ~/~ Lebanese,0.095890411,aley,admin2,Lebanese
+934,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ baabda ~/~ pop_group ~/~ Lebanese,0.115044248,baabda,admin2,Lebanese
+935,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ baalbek ~/~ pop_group ~/~ Lebanese,0.265734266,baalbek,admin2,Lebanese
+936,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ migrant,0,baalbek_hermel,admin1,Migrant
+937,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ baalbek_hermel ~/~ pop_group ~/~ prl,0.31372549,baalbek_hermel,admin1,Palestine Refugees from Lebanon
+938,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ batroun ~/~ pop_group ~/~ Lebanese,0.259259259,batroun,admin2,Lebanese
+939,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ bcharre ~/~ pop_group ~/~ Lebanese,0.222222222,bcharre,admin2,Lebanese
+940,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ beirut ~/~ pop_group ~/~ Lebanese,0.252873563,beirut,admin2,Lebanese
+941,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ beirut ~/~ pop_group ~/~ migrant,0.594405594,beirut,admin1,Migrant
+942,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ beirut ~/~ pop_group ~/~ prl,0.310559006,beirut,admin1,Palestine Refugees from Lebanon
+943,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ bekaa ~/~ pop_group ~/~ migrant,0.028571429,bekaa,admin1,Migrant
+944,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ bent_jbeil ~/~ pop_group ~/~ Lebanese,0.472222222,bent_jbeil,admin2,Lebanese
+945,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ chouf ~/~ pop_group ~/~ Lebanese,0.162162162,chouf,admin2,Lebanese
+946,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ hasbaya ~/~ pop_group ~/~ Lebanese,0.428571429,hasbaya,admin2,Lebanese
+947,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ hermel ~/~ pop_group ~/~ Lebanese,0.298013245,hermel,admin2,Lebanese
+948,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ jbeil ~/~ pop_group ~/~ Lebanese,0.150943396,jbeil,admin2,Lebanese
+949,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ jezzine ~/~ pop_group ~/~ Lebanese,0.282208589,jezzine,admin2,Lebanese
+950,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ kesrwane ~/~ pop_group ~/~ Lebanese,0.12195122,kesrwane,admin2,Lebanese
+951,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ koura ~/~ pop_group ~/~ Lebanese,0.523809524,koura,admin2,Lebanese
+952,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ marjaayoun ~/~ pop_group ~/~ Lebanese,0.430555556,marjaayoun,admin2,Lebanese
+953,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ meten ~/~ pop_group ~/~ Lebanese,0.0875,meten,admin2,Lebanese
+954,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ minieh_dennie ~/~ pop_group ~/~ Lebanese,0.44966443,minieh_dennie,admin2,Lebanese
+955,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ migrant,0.781954887,mnt_lbn,admin1,Migrant
+956,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ mnt_lbn ~/~ pop_group ~/~ prl,0.555555556,mnt_lbn,admin1,Palestine Refugees from Lebanon
+957,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ nabatieh ~/~ pop_group ~/~ migrant,0.080882353,nabatieh,admin1,Migrant
+958,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ north ~/~ pop_group ~/~ migrant,0.395683453,north,admin1,Migrant
+959,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ north ~/~ pop_group ~/~ prl,0.490566038,north,admin1,Palestine Refugees from Lebanon
+960,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ rachaya ~/~ pop_group ~/~ Lebanese,0.153284672,rachaya,admin2,Lebanese
+961,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ saida ~/~ pop_group ~/~ Lebanese,0.222222222,saida,admin2,Lebanese
+962,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ sour ~/~ pop_group ~/~ Lebanese,0.300699301,sour,admin2,Lebanese
+963,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ south ~/~ pop_group ~/~ migrant,0.137931034,south,admin1,Migrant
+964,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ south ~/~ pop_group ~/~ prl,0.330188679,south,admin1,Palestine Refugees from Lebanon
+965,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ tripoli ~/~ pop_group ~/~ Lebanese,0.970212766,tripoli,admin2,Lebanese
+966,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ w_bekaa ~/~ pop_group ~/~ Lebanese,0.263888889,w_bekaa,admin2,Lebanese
+967,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ zahle ~/~ pop_group ~/~ Lebanese,0.32885906,zahle,admin2,Lebanese
+968,mean @/@ hhs_score ~/~ NA @/@ stratification ~/~ zgharta ~/~ pop_group ~/~ Lebanese,0.65,zgharta,admin2,Lebanese
